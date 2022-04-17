@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T06:44:21.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" version="17.4.5" etag="IQ4A6VAziO8cXv7G0pNz" type="github"><diagram id="ZCOoS9S-Dj7iNzDyLrGs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-17T07:04:55.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="pLCYi0ZrMOUu6OVd9j7H" version="17.4.5" type="github">
+  <diagram id="ZCOoS9S-Dj7iNzDyLrGs" name="Page-1">
+    <mxGraphModel dx="692" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="66pZnOeQqBtX9ZIrgSTL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pZnOeQqBtX9ZIrgSTL-1" target="66pZnOeQqBtX9ZIrgSTL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66pZnOeQqBtX9ZIrgSTL-1" value="源状态Status" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="10" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="66pZnOeQqBtX9ZIrgSTL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pZnOeQqBtX9ZIrgSTL-4" target="66pZnOeQqBtX9ZIrgSTL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66pZnOeQqBtX9ZIrgSTL-4" value="事件Event" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="66pZnOeQqBtX9ZIrgSTL-5" value="目标状态Status" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="470" y="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="66pZnOeQqBtX9ZIrgSTL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="66pZnOeQqBtX9ZIrgSTL-6" target="66pZnOeQqBtX9ZIrgSTL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66pZnOeQqBtX9ZIrgSTL-6" value="状态转换动作Action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="300" y="330" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
